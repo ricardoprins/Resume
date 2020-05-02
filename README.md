@@ -38,3 +38,15 @@
 |Ganit Prabhutva|2018|Selected for round 2 and awarded excellence certificate.|
 |Dr. Homi Bhabha Examinations|2018-2019|Selected and appeared for practical and theory round|
 |Winner: Story of Makers Tech Expo 2|2019|Tarun Mitra Mandal, Navneet|
+
+## Publications
+
+|Title|Journal/Conference|Volume & Issue|Date|
+|:-----------------------|:-----------------------------------------------------|:------------:|-----|
+|[Machine Learning as decision aid for breast cancer diagnosis](https://iarjset.com/papers/machine-learning-as-a-decision-aid-for-breast-cancer-diagnosis/)|International Advanced Research Journal in Science, Engineering and Technology|V6 I6|October, 2019|
+|[Design and implementation of Medicine Dispenser](https://iarjset.com/papers/design-and-implementation-of-medicine-dispenser/)|International Advanced Research Journal in Science, Engineering and Technology|V6 I6|,July, 2019|
+|[Design and Implementation of a Smart IoT Farm](https://www.irjet.net/archives/V6/i4/IRJET-V6I41079.pdf)|International Research Journal of Engineering and Technology (IRJET)|V6 I4|April, 2018|
+|Age of Zero|National Maths Condference|V53|December, 2018|
+|Sierpinski Fractal|National Maths Condference|V53|December, 2018|
+|[Design and Implementation of Smart City using IOT](https://www.irjet.net/archives/V5/i10/IRJET-V5I10294.pdf)|International Research Journal of Engineering and Technology (IRJET)|V5 I10|October, 2018|
+|[Design and Implementation of Safety Gear for school kids](http://www.ijirset.com/upload/2018/july/36_4_Design.pdf)|International Journal of Innovative research in Science, Engineering and Technology (IJIRSET)|V7 I7|July, 2018|
