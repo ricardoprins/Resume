@@ -17,3 +17,24 @@
 |Program                  |Institute                                              |Timeframe     |
 |:-----------------------:|:-----------------------------------------------------:|:------------:|
 |ICSE(Student of Grade 10)|[Thakur International School](http://www.tismumbai.in/)|2006 - Present|
+
+## Achievements
+
+|Program|Date|Description|
+|:-----------------------|:-----------------------------------------------------:|:------------|
+|International Hackathon|12/2019|1 st prize at International Hackathon of Blockchain and Iot by IET held at Thakur College of Engineering and technology.|
+|Winner: Palo Alto Network Challenge||Google cloud competition|
+|2 X GCP Quest Leader||Google cloud competition|
+|Jr. Robocon|01/2015|1 st place in category C. It is a theme based competition and the participants need to build an Autonomous robot to solve the task.|
+|WRO (World Robot Olympiad)|2016|Qualified for national round|
+|TIS Technovation Challenge|2016|1 st place in Technovation Challenge. It is a competition where participants have to build robot featuring the categories given.|
+|LEGO RoboFest|2016|1 st place in RoboFest. It is a competitition in which participants have to use LEGO Mindstorms for building a robot which can complete the given task in given time frame.|
+|[Letter of Appreciation by Thakur College of Engineering and Technology](https://drive.google.com/file/d/1Ga7Ij1ik1W_4il8thOFYEFccUr_mD6xL/view?usp=sharing)|2018|Awarded Letter of Appreciation by electronics and telecommunication department of Thakur College of Engineering and Technology for training students to do projects in robotics and AI.|
+|National Cyber Olympiad|2018|International Rank : 17|
+|VJTI Technovanza innovation challenge|2017|1 st place in VJTI Technovanza innovation challenge.|
+|National Standard Examinations in Junior Science|2019|Awarded Certificate of Merit for being placed among top 1% students all over India and selected for Indian National Junior Science Olympiad.|
+|Australian National Chemistry Quiz|2017|Award of Excellence.|
+|National Maths Talent Contest|2018|Qualified for second round.|
+|Ganit Prabhutva|2018|Selected for round 2 and awarded excellence certificate.|
+|Dr. Homi Bhabha Examinations|2018-2019|Selected and appeared for practical and theory round|
+|Winner: Story of Makers Tech Expo 2|2019|Tarun Mitra Mandal, Navneet|
