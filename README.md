@@ -18,6 +18,53 @@
 |:-----------------------:|:-----------------------------------------------------:|:------------:|
 |ICSE(Student of Grade 10)|[Thakur International School](http://www.tismumbai.in/)|2006 - Present|
 
+## Work Experience
+
+### [Research and Project Intern Science Kidz Educare Pvt. Ltd.](https://drive.google.com/file/d/1HmV904su74DPA2evvh5RAPJKD8X321aj/view?usp=sharing) (06/2018 – 27/04/2019)
+
+An Ed-Tech start up which promotes STEAM Education and teaches Robotics and Automation to school children and above.
+
+**Tasks**
+* Teaching robotics to students as per course syllabus.
+* Designing, Programming, Testing and Debugging Projects for
+* service improvement.
+* Researching on new technologies.
+* Conducting RaspberryPi workshops.
+* Conducting IoT workshops.
+* Developing official website of Science Kidz EducarePvt. Ltd.
+
+### Intern, Robotron Labs and EZ Lock, (28/04/2019 - 30/05/2019)
+
+Robotron Labs is an Ed-Tech startup promoting robotics and IT. EZ Lock is an industrial manifacturer and supplier of smart IoT based digital locks.
+
+**Tasks**
+
+* Building nano drones.
+* Programming drones.
+* Working with mBots and Arduino to create projects.
+* Designing, Programming, Testing and Debugging Projects for service improvement.
+* Researching on new technologies.
+* Developing, maintaining and refactoring official website of Roboton Labs.
+* Teaching robotics and about drones to students as per course syllabus.
+* Designing, debugging, testing, programming and building industry level new power efficient and cost efficient smart digital locks.
+
+### Mentor, Young Engineers's Club (06/2018 – Present)
+
+**Tasks**
+
+* Conducting Seminars for Robotics and STEM Awareness in various colleges and events across Mumbai.
+* Mentored 4 projects in annual robotic event Ignited Minds Expo.
+* Gave Android app development workshop.
+* Learnt PCB Designing.
+* Attended Technical Paper Writing Workshop.
+
+### AI blogger, Analytics Vidya, Towards DataScience (09/2018 - Present)
+
+**Tasks**
+
+* I write about various different AI algorithms and their proofs and how one can apply them using different languages in real time and publish them on Analytics Vidya Website
+
+
 ## Achievements
 
 |Program|Date|Description|
