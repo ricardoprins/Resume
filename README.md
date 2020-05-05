@@ -1,4 +1,4 @@
-# Rishit Dagli
+# [Rishit Dagli](https://www.rishit.tech)
 
 ![GitHub followers](https://img.shields.io/github/followers/Rishit-dagli?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?style=social)&nbsp;&nbsp;
@@ -33,7 +33,7 @@ An Ed-Tech start up which promotes STEAM Education and teaches Robotics and Auto
 * Conducting IoT workshops.
 * Developing official website of Science Kidz EducarePvt. Ltd.
 
-### Intern, Robotron Labs and EZ Lock, (28/04/2019 - 30/05/2019)
+#### Intern, Robotron Labs and EZ Lock, (28/04/2019 - 30/05/2019)
 
 Robotron Labs is an Ed-Tech startup promoting robotics and IT. EZ Lock is an industrial manifacturer and supplier of smart IoT based digital locks.
 
@@ -48,7 +48,7 @@ Robotron Labs is an Ed-Tech startup promoting robotics and IT. EZ Lock is an ind
 * Teaching robotics and about drones to students as per course syllabus.
 * Designing, debugging, testing, programming and building industry level new power efficient and cost efficient smart digital locks.
 
-### Mentor, Young Engineers's Club (06/2018 – Present)
+#### Mentor, Young Engineers's Club (06/2018 – Present)
 
 **Tasks**
 
@@ -58,11 +58,15 @@ Robotron Labs is an Ed-Tech startup promoting robotics and IT. EZ Lock is an ind
 * Learnt PCB Designing.
 * Attended Technical Paper Writing Workshop.
 
-### AI blogger, Analytics Vidya, Towards DataScience (09/2018 - Present)
+#### AI blogger, Analytics Vidya, Towards DataScience (09/2018 - Present)
 
 **Tasks**
 
 * I write about various different AI algorithms and their proofs and how one can apply them using different languages in real time and publish them on Analytics Vidya Website
+
+## Public speaking
+
+I take the idea of **learning and sharing** very seriously and hence the existence of this page. I love to attend developer meetups, conferences, workshops and learn from them as much as I can. I sometimes talk on a range of topics that I love the most.
 
 
 ## Achievements
