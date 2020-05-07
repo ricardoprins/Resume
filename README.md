@@ -20,7 +20,7 @@
 
 ## Work Experience
 
-### [Research and Project Intern Science Kidz Educare Pvt. Ltd.](https://drive.google.com/file/d/1HmV904su74DPA2evvh5RAPJKD8X321aj/view?usp=sharing) (06/2018 – 27/04/2019)
+#### [Research and Project Intern Science Kidz Educare Pvt. Ltd.](https://drive.google.com/file/d/1HmV904su74DPA2evvh5RAPJKD8X321aj/view?usp=sharing) (06/2018 – 27/04/2019)
 
 An Ed-Tech start up which promotes STEAM Education and teaches Robotics and Automation to school children and above.
 
@@ -68,6 +68,16 @@ Robotron Labs is an Ed-Tech startup promoting robotics and IT. EZ Lock is an ind
 
 I take the idea of **learning and sharing** very seriously and hence the existence of this page. I love to attend developer meetups, conferences, workshops and learn from them as much as I can. I sometimes talk on a range of topics that I love the most.
 
+#### Given By me
+||||
+|Topic|Event/Community|Date|
+|:---|:---|:---|
+|[Convolutional Neural Nets and Implementing them with TensorFLow](https://www.youtube.com/watch?v=ouS6wif4Uw4)|Virtual event by me|24 April 2020|
+|Image problems with TensorFLow|Virtual event by me|22 April 2020|
+|[TensorFlow 2.x Beginners Workshop](https://www.youtube.com/watch?v=Gp47ZCs8ZhU)|[The Quest 2020](https://www.google.com/url?q=https%3A%2F%2Fweareplymouths.com%2Fupdates%2F&sa=D&sntz=1&usg=AFQjCNE2il9_nuxh427xzuQsrBBhQjoCLA) by [We are Plymouths](https://www.google.com/url?q=https%3A%2F%2Fweareplymouths.com%2F&sa=D&sntz=1&usg=AFQjCNFi2HnHU6IDyPMwICsJb3PTBr9lVQ)|21 April 2020|
+|[Getting started with AI and TensorFLow](https://www.youtube.com/playlist?list=PLhsXz2jqfvgjzmKkRr0EbgvIq86dKpVzD)|Virtual event by me|20 April 2020|
+|[AI with Flutter](https://www.youtube.com/watch?v=xuiqxdtjp3Y)|[Flutter Mumbai February Meetup](https://www.meetup.com/Mumbai-Flutter/events/268650815/)|15 Feb 2020
+|[Getting started with Kotlin for Android](https://www.google.com/url?q=https%3A%2F%2Fwww.meetup.com%2FKotlin-User-Group-Mumbai%2Fevents%2F268077446%2F&sa=D&sntz=1&usg=AFQjCNEWjmu1PlLr8fDvOOZXFbFIzqFPmA)|[Kotlin User Group Mumbai Launch Event/ February event](https://www.google.com/url?q=https%3A%2F%2Fwww.meetup.com%2FKotlin-User-Group-Mumbai&sa=D&sntz=1&usg=AFQjCNHUPbWSZOnsRAn5dsnKq1byETUNYQ)|8 Feb 2020|
 
 ## Achievements
 
