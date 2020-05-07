@@ -78,6 +78,17 @@ I take the idea of **learning and sharing** very seriously and hence the existen
 |[Getting started with AI and TensorFLow](https://www.youtube.com/playlist?list=PLhsXz2jqfvgjzmKkRr0EbgvIq86dKpVzD)|Virtual event by me|20 April 2020|
 |[AI with Flutter](https://www.youtube.com/watch?v=xuiqxdtjp3Y)|[Flutter Mumbai February Meetup](https://www.meetup.com/Mumbai-Flutter/events/268650815/)|15 Feb 2020
 |[Getting started with Kotlin for Android](https://www.google.com/url?q=https%3A%2F%2Fwww.meetup.com%2FKotlin-User-Group-Mumbai%2Fevents%2F268077446%2F&sa=D&sntz=1&usg=AFQjCNEWjmu1PlLr8fDvOOZXFbFIzqFPmA)|[Kotlin User Group Mumbai Launch Event/ February event](https://www.google.com/url?q=https%3A%2F%2Fwww.meetup.com%2FKotlin-User-Group-Mumbai&sa=D&sntz=1&usg=AFQjCNHUPbWSZOnsRAn5dsnKq1byETUNYQ)|8 Feb 2020|
+|The Horizon of Artificial Intelligence and getting started with Artificial Intelligence|[Ignited Minds Expo](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fevents%2F1066975303638532%2F&sa=D&sntz=1&usg=AFQjCNHGSXWk9A6ku0hgXE6puvioDmK87A) by [Science Kidz](http://www.google.com/url?q=http%3A%2F%2Fsciencekidz.in%2F&sa=D&sntz=1&usg=AFQjCNHg1VkEFLQQSiP7ofagTz-KI2JOuw) and [Young Engineer's Club](http://www.google.com/url?q=http%3A%2F%2Fyoungengineersclub.com&sa=D&sntz=1&usg=AFQjCNEa_yDePDmkhrJWXmkqeF3aWHwIzw)|19 Jan 2020|
+|Deploying AI models on the edge in Android with Firebase|Community Virtual Meetup by [Udacity](https://www.google.com/url?q=https%3A%2F%2Fwww.udacity.com%2F&sa=D&sntz=1&usg=AFQjCNFie85tTLegCdahZSNmLGsG9tWGbQ) and [Intel](https://www.google.com/url?q=https%3A%2F%2Fwww.intel.com%2Fcontent%2Fwww%2Fus%2Fen%2Fhomepage.html&sa=D&sntz=1&usg=AFQjCNHR2UW_EydBqORJnyEbglqdCe4dVA)||
+|[Inside an AI algorithm](https://www.youtube.com/watch?v=f2m5o3C0-3s)|[Firebase Community Mumbai January Meetup](https://www.google.com/url?q=https%3A%2F%2Fwww.meetup.com%2FFirebase-Community-Mumbai%2F&sa=D&sntz=1&usg=AFQjCNF1eqHzgp0ZFkm3_CN4ORuo8Y7oaw)|Jan 2020|
+|Paper on Sierpienski Triangle|AMTI 53 rd Annual National Maths Conference|1 Dec 2019|
+|Paper on Age of Zero at AMTI|53 rd Annual National Maths Conference|2 Dec 2019|
+|[Inside an AI algorithm with Azure](https://www.youtube.com/watch?v=gL1D5dTaNes)|Microsoft Global AI Bootcamp|2019|
+|[Inside an AI algorithm with TensorFlow](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fevents%2F2458909864348287%2F&sa=D&sntz=1&usg=AFQjCNGi5I9FcmGntD0Tf9N-Q3zuSwQ-oQ)|TensorFLow World Extended 2019 by TensorFlow User Group Mumbai|2019|
+|Paper on [Design and implementation of a Smart City using IoT](https://www.google.com/url?q=https%3A%2F%2Fwww.irjet.net%2Farchives%2FV5%2Fi10%2FIRJET-V5I10294.pdf&sa=D&sntz=1&usg=AFQjCNHWjJ1LtwIRaMIq1ePcGZej7vBWZg)|Zephyr, Annual tech festival, Thakur College of Engineering and Technology|2019|
+|2 day Android development workshop|[Science Kidz](http://www.google.com/url?q=http%3A%2F%2Fsciencekidz.in%2F&sa=D&sntz=1&usg=AFQjCNHg1VkEFLQQSiP7ofagTz-KI2JOuw) in collaboration with [Young Engineers Club](http://www.google.com/url?q=http%3A%2F%2Fyoungengineersclub.com%2F&sa=D&sntz=1&usg=AFQjCNGGO-EAfWt8MKaml2TY6gg1cITgdw)|Nov 2019|
+|Robotics and Artificial Intelligence|Thakur College of Engineering and Technology|Jul 2019|
+|Workshop on IoT and it's applications|Thakur College of Engineering and Technology|2019|
 
 ## Achievements
 
