@@ -69,7 +69,7 @@ Robotron Labs is an Ed-Tech startup promoting robotics and IT. EZ Lock is an ind
 I take the idea of **learning and sharing** very seriously and hence the existence of this page. I love to attend developer meetups, conferences, workshops and learn from them as much as I can. I sometimes talk on a range of topics that I love the most.
 
 #### Given By me
-||||
+
 |Topic|Event/Community|Date|
 |:---|:---|:---|
 |[Convolutional Neural Nets and Implementing them with TensorFLow](https://www.youtube.com/watch?v=ouS6wif4Uw4)|Virtual event by me|24 April 2020|
