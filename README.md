@@ -68,27 +68,38 @@ Robotron Labs is an Ed-Tech startup promoting robotics and IT. EZ Lock is an ind
 
 I take the idea of **learning and sharing** very seriously and hence the existence of this page. I love to attend developer meetups, conferences, workshops and learn from them as much as I can. I sometimes talk on a range of topics that I love the most.
 
-#### Given By me
+#### Given by me
 
-|Topic|Event/Community|Date|
+|Topic|Organization|Date|
 |:---|:---|:---|
-|[Convolutional Neural Nets and Implementing them with TensorFLow](https://www.youtube.com/watch?v=ouS6wif4Uw4)|Virtual event by me|24 April 2020|
-|Image problems with TensorFLow|Virtual event by me|22 April 2020|
-|[TensorFlow 2.x Beginners Workshop](https://www.youtube.com/watch?v=Gp47ZCs8ZhU)|[The Quest 2020](https://www.google.com/url?q=https%3A%2F%2Fweareplymouths.com%2Fupdates%2F&sa=D&sntz=1&usg=AFQjCNE2il9_nuxh427xzuQsrBBhQjoCLA) by [We are Plymouths](https://www.google.com/url?q=https%3A%2F%2Fweareplymouths.com%2F&sa=D&sntz=1&usg=AFQjCNFi2HnHU6IDyPMwICsJb3PTBr9lVQ)|21 April 2020|
-|[Getting started with AI and TensorFLow](https://www.youtube.com/playlist?list=PLhsXz2jqfvgjzmKkRr0EbgvIq86dKpVzD)|Virtual event by me|20 April 2020|
-|[AI with Flutter](https://www.youtube.com/watch?v=xuiqxdtjp3Y)|[Flutter Mumbai February Meetup](https://www.meetup.com/Mumbai-Flutter/events/268650815/)|15 Feb 2020
-|[Getting started with Kotlin for Android](https://www.google.com/url?q=https%3A%2F%2Fwww.meetup.com%2FKotlin-User-Group-Mumbai%2Fevents%2F268077446%2F&sa=D&sntz=1&usg=AFQjCNEWjmu1PlLr8fDvOOZXFbFIzqFPmA)|[Kotlin User Group Mumbai Launch Event/ February event](https://www.google.com/url?q=https%3A%2F%2Fwww.meetup.com%2FKotlin-User-Group-Mumbai&sa=D&sntz=1&usg=AFQjCNHUPbWSZOnsRAn5dsnKq1byETUNYQ)|8 Feb 2020|
-|The Horizon of Artificial Intelligence and getting started with Artificial Intelligence|[Ignited Minds Expo](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fevents%2F1066975303638532%2F&sa=D&sntz=1&usg=AFQjCNHGSXWk9A6ku0hgXE6puvioDmK87A) by [Science Kidz](http://www.google.com/url?q=http%3A%2F%2Fsciencekidz.in%2F&sa=D&sntz=1&usg=AFQjCNHg1VkEFLQQSiP7ofagTz-KI2JOuw) and [Young Engineer's Club](http://www.google.com/url?q=http%3A%2F%2Fyoungengineersclub.com&sa=D&sntz=1&usg=AFQjCNEa_yDePDmkhrJWXmkqeF3aWHwIzw)|19 Jan 2020|
+|[Extending Convolutional Nets and solving overfitting in TensorFlow](https://www.youtube.com/watch?v=ouS6wif4Uw4&list=PLhsXz2jqfvgjzmKkRr0EbgvIq86dKpVzD)|virtual event organized by me|24 April 2020|
+|Convolutional Neural Nets and Impl|ementing them with TensorFLow|virtual event organized by me|22 April 2020|
+|[TensorFlow 2.x Beginners Workshop](https://www.youtube.com/watch?v=Gp47ZCs8ZhU)|[The Quest 2020](https://www.google.com/url?q=https%3A%2F%2Fweareplymouths.com%2Fupdates%2F&sa=D&sntz=1&usg=AFQjCNE2il9_nuxh427xzuQsrBBhQjoCLA) by [We are Plymouths](https://www.google.com/url?q=https%3A%2F%2Fweareplymouths.com%2F&sa=D&sntz=1&usg=AFQjCNFi2HnHU6IDyPMwICsJb3PTBr9lVQ)|21 April 2020
+|[Getting started with AI and TensorFLow](https://www.youtube.com/playlist?list=PLhsXz2jqfvgjzmKkRr0EbgvIq86dKpVzD)|virtual event organized by me|20 April 2020|
+|[AI with Flutter](https://www.youtube.com/watch?v=xuiqxdtjp3Y)|[Flutter Mumbai February Meetup](https://www.google.com/url?q=https%3A%2F%2Fwww.meetup.com%2FMumbai-Flutter%2Fevents%2F268650815%2F&sa=D&sntz=1&usg=AFQjCNECR80LwhV-SqPDfIXT_fRd914aNg)|15 February 2020|
+|[Getting started with Kotlin for Android](https://www.google.com/url?q=https%3A%2F%2Fwww.meetup.com%2FKotlin-User-Group-Mumbai%2Fevents%2F268077446%2F&sa=D&sntz=1&usg=AFQjCNEWjmu1PlLr8fDvOOZXFbFIzqFPmA)|[Kotlin User Group Mumbai](https://www.google.com/url?q=https%3A%2F%2Fwww.meetup.com%2FKotlin-User-Group-Mumbai&sa=D&sntz=1&usg=AFQjCNHUPbWSZOnsRAn5dsnKq1byETUNYQ) Launch Event/ February event|8 February 2020|
+|The Horizon of Artificial Intelligence and getting started with Artificial Intelligence|[Ignited Minds Expo](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fevents%2F1066975303638532%2F&sa=D&sntz=1&usg=AFQjCNHGSXWk9A6ku0hgXE6puvioDmK87A) by [Science Kidz](http://www.google.com/url?q=http%3A%2F%2Fsciencekidz.in%2F&sa=D&sntz=1&usg=AFQjCNHg1VkEFLQQSiP7ofagTz-KI2JOuw) and [Young Engineer's Club](http://www.google.com/url?q=http%3A%2F%2Fyoungengineersclub.com&sa=D&sntz=1&usg=AFQjCNEa_yDePDmkhrJWXmkqeF3aWHwIzw)|19 January 2020|
 |Deploying AI models on the edge in Android with Firebase|Community Virtual Meetup by [Udacity](https://www.google.com/url?q=https%3A%2F%2Fwww.udacity.com%2F&sa=D&sntz=1&usg=AFQjCNFie85tTLegCdahZSNmLGsG9tWGbQ) and [Intel](https://www.google.com/url?q=https%3A%2F%2Fwww.intel.com%2Fcontent%2Fwww%2Fus%2Fen%2Fhomepage.html&sa=D&sntz=1&usg=AFQjCNHR2UW_EydBqORJnyEbglqdCe4dVA)||
-|[Inside an AI algorithm](https://www.youtube.com/watch?v=f2m5o3C0-3s)|[Firebase Community Mumbai January Meetup](https://www.google.com/url?q=https%3A%2F%2Fwww.meetup.com%2FFirebase-Community-Mumbai%2F&sa=D&sntz=1&usg=AFQjCNF1eqHzgp0ZFkm3_CN4ORuo8Y7oaw)|Jan 2020|
-|Paper on Sierpienski Triangle|AMTI 53 rd Annual National Maths Conference|1 Dec 2019|
-|Paper on Age of Zero at AMTI|53 rd Annual National Maths Conference|2 Dec 2019|
-|[Inside an AI algorithm with Azure](https://www.youtube.com/watch?v=gL1D5dTaNes)|Microsoft Global AI Bootcamp|2019|
-|[Inside an AI algorithm with TensorFlow](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fevents%2F2458909864348287%2F&sa=D&sntz=1&usg=AFQjCNGi5I9FcmGntD0Tf9N-Q3zuSwQ-oQ)|TensorFLow World Extended 2019 by TensorFlow User Group Mumbai|2019|
-|Paper on [Design and implementation of a Smart City using IoT](https://www.google.com/url?q=https%3A%2F%2Fwww.irjet.net%2Farchives%2FV5%2Fi10%2FIRJET-V5I10294.pdf&sa=D&sntz=1&usg=AFQjCNHWjJ1LtwIRaMIq1ePcGZej7vBWZg)|Zephyr, Annual tech festival, Thakur College of Engineering and Technology|2019|
-|2 day Android development workshop|[Science Kidz](http://www.google.com/url?q=http%3A%2F%2Fsciencekidz.in%2F&sa=D&sntz=1&usg=AFQjCNHg1VkEFLQQSiP7ofagTz-KI2JOuw) in collaboration with [Young Engineers Club](http://www.google.com/url?q=http%3A%2F%2Fyoungengineersclub.com%2F&sa=D&sntz=1&usg=AFQjCNGGO-EAfWt8MKaml2TY6gg1cITgdw)|Nov 2019|
-|Robotics and Artificial Intelligence|Thakur College of Engineering and Technology|Jul 2019|
-|Workshop on IoT and it's applications|Thakur College of Engineering and Technology|2019|
+|[Inside an AI algorithm](https://www.youtube.com/watch?v=f2m5o3C0-3s)|[Firebase Community Mumbai January Meetup](https://www.google.com/url?q=https%3A%2F%2Fwww.meetup.com%2FFirebase-Community-Mumbai%2F&sa=D&sntz=1&usg=AFQjCNF1eqHzgp0ZFkm3_CN4ORuo8Y7oaw)| January 2020|
+|Paper on Sierpienski Triangle|AMTI 53 rd Annual National Maths Conference|1 December 2019|
+|Paper on Age of Zero|AMTI 53 rd Annual National Maths Conference|1 December 2019|
+|[Inside an AI algorithm with Azure](https://www.youtube.com/watch?v=gL1D5dTaNes&t=178s)|Microsoft Global AI Bootcamp|2019|
+|Inside an AI algorithm with TensorFlow|TensorFLow World Extended 2019 by TensorFlow User Group Mumbai|2019|
+|[Paper on Design and implementation of a Smart City using IoT](https://www.google.com/url?q=https%3A%2F%2Fwww.irjet.net%2Farchives%2FV5%2Fi10%2FIRJET-V5I10294.pdf&sa=D&sntz=1&usg=AFQjCNHWjJ1LtwIRaMIq1ePcGZej7vBWZg)|Zephyr, Annual tech festival, Thakur College of Engineering and Technology|2019|
+|2 day Android development workshop|[Science Kidz](http://www.google.com/url?q=http%3A%2F%2Fsciencekidz.in%2F&sa=D&sntz=1&usg=AFQjCNHg1VkEFLQQSiP7ofagTz-KI2JOuw) in collaboration with [Young Engineers Club](http://www.google.com/url?q=http%3A%2F%2Fyoungengineersclub.com%2F&sa=D&sntz=1&usg=AFQjCNGGO-EAfWt8MKaml2TY6gg1cITgdw)|November 2019|
+|Robotics and Artificial Intelligence|Thakur College of Engineering and Technology, Mumbai|July 2019|
+|Gave a workshop on IoT and it's applications|Thakur College of Engineering and Technology, Mumbai|2019|
+
+#### Co-Organized by me
+
+|Event name|Date|
+|:---|:---|
+|[Stepping Into the World of AI](https://www.youtube.com/playlist?list=PLhsXz2jqfvgjzmKkRr0EbgvIq86dKpVzD), a 3 day Workshop|April 2020|
+|[Kotlin Mumbai April Virtual Event](https://www.google.com/url?q=https%3A%2F%2Fwww.meetup.com%2FKotlin-User-Group-Mumbai%2Fevents%2F269831845%2F&sa=D&sntz=1&usg=AFQjCNGTEzuMU1LbcVXasf7rm4_i0vxTyg)|18  April 2020|
+|[Kotlin Mumbai March Virtual Event](https://www.google.com/url?q=https%3A%2F%2Fwww.meetup.com%2FKotlin-User-Group-Mumbai%2Fevents%2F268726965%2F&sa=D&sntz=1&usg=AFQjCNF_kNEl26lCsoTc2Me2KuyaEtIPEw)|21 March 2020|
+|[Kotlin Mumbai Launch Event](https://www.google.com/url?q=https%3A%2F%2Fwww.meetup.com%2FKotlin-User-Group-Mumbai%2Fevents%2F268077446%2F&sa=D&sntz=1&usg=AFQjCNEWjmu1PlLr8fDvOOZXFbFIzqFPmA)|8 February 2020|
+|Intel Community Virtual Meetup along with [Udacity](http://www.google.com/url?q=http%3A%2F%2Fudacity.com&sa=D&sntz=1&usg=AFQjCNGP1BuPR7400aUhZbk8QwnJf0igPA)||
+|2 day Android development workshop  in collaboration with [Science Kidz](http://www.google.com/url?q=http%3A%2F%2Fsciencekidz.in%2F&sa=D&sntz=1&usg=AFQjCNHg1VkEFLQQSiP7ofagTz-KI2JOuw) and [Young Engineers Club](http://www.google.com/url?q=http%3A%2F%2Fyoungengineersclub.com%2F&sa=D&sntz=1&usg=AFQjCNGGO-EAfWt8MKaml2TY6gg1cITgdw)||
 
 ## Achievements
 
